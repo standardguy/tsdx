@@ -1,0 +1,10 @@
+{
+  "name": "tsdx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+    "tsdx": "^0.14.1"
+  }
+}
